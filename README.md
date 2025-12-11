@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Stevthunder/thunderstev">
-    <img alt="Stevthunder docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
+    <img alt="Stevthunder docs" height="350" src="https://postimg.cc/LnD6NvZ9.jpg">
   </a>
 </p>
     
